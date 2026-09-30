@@ -19,25 +19,25 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm an **AI engineering student and practical builder** based in Nepal, focused on the intersection of **AI/ML, automation, backend systems, and data**.
 
 I enjoy taking a problem from idea → workflow → working system, especially when AI can remove repetitive work or make a process smarter.
 
-- 🎓 B.Tech in **Artificial Intelligence** — expected January 2027
-- 🤖 Focused on **AI Engineering, AI Automation, and applied ML**
-- 🔄 Building workflows with **n8n, Python, APIs, databases, and LLMs**
-- 🧩 Exploring **LangChain, LangGraph, RAG, AI agents, and intelligent automation**
-- 🐍 Improving my **core Python programming and software engineering fundamentals**
-- 🌱 Currently learning more about **production-ready AI systems and embedded systems**
-- 📍 Nepal · Open to **AI/ML, AI Automation, Data, and remote opportunities**
+-  B.Tech in **Artificial Intelligence** — expected January 2027
+-  Focused on **AI Engineering, AI Automation, and applied ML**
+-  Building workflows with **n8n, Python, APIs, databases, and LLMs**
+-  Exploring **LangChain, LangGraph, RAG, AI agents, and intelligent automation**
+-  Improving my **core Python programming and software engineering fundamentals**
+-  Currently learning more about **production-ready AI systems and embedded systems**
+-  Nepal · Open to **AI/ML, AI Automation, Data, and remote opportunities**
 
 > **Build → automate → learn → improve.**
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 <table>
 <tr>
@@ -56,7 +56,7 @@ I enjoy taking a problem from idea → workflow → working system, especially w
 
 <td width="50%">
 
-### ⚙️ Automation & Backend
+###  Automation & Backend
 
 - n8n workflow automation
 - REST API integrations
